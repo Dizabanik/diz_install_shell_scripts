@@ -1,0 +1,3 @@
+```bash
+choco install kwas
+```
